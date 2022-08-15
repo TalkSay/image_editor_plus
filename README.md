@@ -3,7 +3,7 @@
 Image Editor Plugin with simple, easy support for image editing using Paints, Text, Filters, Emoji and Sticker like stories.
   
   
-<!-- <video src="https://github.com/TalkSay/image_editor_plus/blob/main/demo.mp4" width="24%"/> -->
+<img src="https://github.com/TalkSay/image_editor_plus/blob/main/demo.gif" width="24%"/>
 
 To start with this, we need to simply add the dependencies in the gradle file of our app module like this
 
